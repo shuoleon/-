@@ -117,16 +117,7 @@
 ## :lollipop:Sponsoring | 赞助
 
 
-<table>
-<tr>
-<td align="center"><img src="./assets/wechat.jpg" /></a></td>
-<td align="center"><img src="./assets/alipay.jpg" /></a></td>
-</tr>
-<tr>
-<td align="center"><strong>微信</strong></td>
-<td align="center"><strong>支付宝</strong></td>
-</tr>
-</table>
+
 
 ## :bookmark:License | 许可
 >⚖ 本作品采用『[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)』进行许可。  
